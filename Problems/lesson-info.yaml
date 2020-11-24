@@ -1,0 +1,111 @@
+content:
+- Initializing an array of integers
+- Initializing an array of characters
+- Accounts
+- Points on the 2D plane
+- Inner boxes
+- Binary search
+- Getting input
+- Sorting arrays
+- User
+- Account
+- Account and its owner
+- The sum of array elements
+- Check if an array is sorted ascending
+- Right Rotation
+- Overloading methods
+- Start sequence of words
+- Find mistake
+- Publication and its subclasses
+- Extracting a substring
+- Mutable geometric shapes
+- Compact strings with AsciiCharSequence
+- Composite numbers
+- Avoid division by zero
+- Return empty string when argument is null
+- Avoid NPE
+- Only true or false
+- Safe converting
+- Extracting big numbers from a text
+- Extracting words from a text
+- Find all passwords
+- Geek Builder
+- Subway Sandwich
+- Robot Builder
+- Correct the program
+- Pastry packing optimization
+- Integer part of a number
+- Creating list
+- Output the list's elements
+- Find the nearest number
+- Concat positive numbers
+- The sum of integers from a to b
+- Currencies
+- Danger levels
+- The secret enumeration
+- IntBinaryOperation
+- Users and WebSites
+- Shape hierarchy
+- Illegal identifiers
+- 10 days before
+- The first and the last day of a month
+- The n-th day from the end of a month
+- Raise to the power
+- Fixing the main method
+- Fixing the main method (1)
+- Print  Hello, Java!
+- Calculator with four methods
+- Decompose a math function
+- Arithmetic expression
+- Seconds since start of a day
+- Some hours and minutes ago
+- Seconds between two time points
+- Subtracting hours and adding minutes
+- Add days and subtract hours
+- Adding N minutes
+- Who is who
+- Sort out the classes
+- Sum of the areas
+- Counting 2D shapes
+- The minimum value of an array
+- Call me awesome
+- The sign of a number
+- Sum of numbers in the range
+- Book
+- Clock factory
+- Motor static factory
+- Static factory methods for Time
+- Stock Broker
+- Remote Controller
+- Harry Potter
+- Concat all strings without digits
+- Find integer values of Log levels
+- Triples
+- Clocks
+- Robot
+- Motors
+- Template Method
+- Template Method (1)
+- Laptop factory
+- Burgers
+- Phone factory
+- Forex Broker
+- Check the given numbers are different
+- Adding values
+- Get first and last elements
+- Application as a class
+- String to double conversion
+- Catching some exceptions
+- Converting and multiplying
+- Balance management
+- Basic calculator
+- Parameters and their values
+- Advanced calculator
+- Complex numbers
+- Convert to char array
+- Print dates of a year with an offset
+- Convert to bytes
+- Reverse input text
+- Count words
+- Serializable user
+- The Range class

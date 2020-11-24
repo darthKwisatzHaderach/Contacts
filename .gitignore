@@ -1,0 +1,95 @@
+# Project exclude paths
+/.gradle/
+/Contacts/task/build/
+/Contacts/task/out/
+/Contacts/task/out/production/classes/
+/Problems/Adding values/out/
+/Problems/Adding values/out/production/classes/
+/Problems/Advanced calculator/out/
+/Problems/Advanced calculator/out/production/classes/
+/Problems/Balance management/out/
+/Problems/Balance management/out/production/classes/
+/Problems/Basic calculator/out/
+/Problems/Basic calculator/out/production/classes/
+/Problems/Burgers/out/
+/Problems/Burgers/out/production/classes/
+/Problems/Catching some exceptions/out/
+/Problems/Catching some exceptions/out/production/classes/
+/Problems/Check the given numbers are different/out/
+/Problems/Check the given numbers are different/out/production/classes/
+/Problems/Clocks/out/
+/Problems/Clocks/out/production/classes/
+/Problems/Concat all strings without digits/out/
+/Problems/Concat all strings without digits/out/production/classes/
+/Problems/Convert to bytes/out/
+/Problems/Convert to bytes/out/production/classes/
+/Problems/Converting and multiplying/out/
+/Problems/Converting and multiplying/out/production/classes/
+/Problems/Count words/out/
+/Problems/Count words/out/production/classes/
+/Problems/Find integer values of Log levels/out/
+/Problems/Find integer values of Log levels/out/production/classes/
+/Problems/Forex Broker/out/
+/Problems/Forex Broker/out/production/classes/
+/Problems/Get first and last elements/out/
+/Problems/Get first and last elements/out/production/classes/
+/Problems/Harry Potter/out/
+/Problems/Harry Potter/out/production/classes/
+/Problems/Laptop factory/out/
+/Problems/Laptop factory/out/production/classes/
+/Problems/Motors/out/
+/Problems/Motors/out/production/classes/
+/Problems/Parameters and their values/out/
+/Problems/Parameters and their values/out/production/classes/
+/Problems/Phone factory/out/
+/Problems/Phone factory/out/production/classes/
+/Problems/Print dates of a year with an offset/out/
+/Problems/Print dates of a year with an offset/out/production/classes/
+/Problems/Remote Controller/out/
+/Problems/Remote Controller/out/production/classes/
+/Problems/Reverse input text/out/
+/Problems/Reverse input text/out/production/classes/
+/Problems/Robot/out/
+/Problems/Robot/out/production/classes/
+/Problems/Sorting arrays/out/
+/Problems/Sorting arrays/out/production/classes/
+/Problems/Start sequence of words/out/
+/Problems/Start sequence of words/out/production/classes/
+/Problems/Static factory methods for Time/out/
+/Problems/Static factory methods for Time/out/production/classes/
+/Problems/Stock Broker/out/
+/Problems/Stock Broker/out/production/classes/
+/Problems/Subtracting hours and adding minutes/out/
+/Problems/Subtracting hours and adding minutes/out/production/classes/
+/Problems/Subway Sandwich/out/
+/Problems/Subway Sandwich/out/production/classes/
+/Problems/Sum of numbers in the range/out/
+/Problems/Sum of numbers in the range/out/production/classes/
+/Problems/Sum of the areas/out/
+/Problems/Sum of the areas/out/production/classes/
+/Problems/Template Method/out/
+/Problems/Template Method/out/production/classes/
+/Problems/Template Method (1)/out/
+/Problems/Template Method (1)/out/production/classes/
+/Problems/The first and the last day of a month/out/
+/Problems/The first and the last day of a month/out/production/classes/
+/Problems/The minimum value of an array/out/
+/Problems/The minimum value of an array/out/production/classes/
+/Problems/The n-th day from the end of a month/out/
+/Problems/The n-th day from the end of a month/out/production/classes/
+/Problems/The secret enumeration/out/
+/Problems/The secret enumeration/out/production/classes/
+/Problems/The sign of a number/out/
+/Problems/The sign of a number/out/production/classes/
+/Problems/The sum of array elements/out/
+/Problems/The sum of array elements/out/production/classes/
+/Problems/The sum of integers from a to b/out/
+/Problems/The sum of integers from a to b/out/production/classes/
+/Problems/Triples/out/
+/Problems/Triples/out/production/classes/
+/Problems/User/out/
+/Problems/User/out/production/classes/
+/Problems/Users and WebSites/out/
+/Problems/Users and WebSites/out/production/classes/
+/Problems/Who is who/out/
+/Problems/Who is who/out/production/classes/
